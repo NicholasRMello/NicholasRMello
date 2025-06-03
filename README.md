@@ -19,7 +19,7 @@ Right now, I’m exploring the Java ecosystem and applying my knowledge through 
 
 ### 📈 GitHub Stats
 
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=**NicholasRMello**&show_icons=true&theme=tokyonight)
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasRMello&show_icons=true&theme=tokyonight)
 
 ---
 
