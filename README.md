@@ -6,6 +6,10 @@ I'm a programming student and tech enthusiast **at the beginning of my journey a
 
 Right now, I’m exploring the Java ecosystem and applying my knowledge through practical projects that simulate real-world scenarios. I'm always open to learning new tools, collaborating on projects, and continuously improving as a developer.
 
+Sou estudante de programação e entusiasta de tecnologia, iniciando minha jornada como desenvolvedor backend, atualmente focado em aprender Java. Embora meu primeiro contato com a linguagem tenha ocorrido há cerca de um ano, foi somente nos últimos meses que me comprometi de fato a seguir carreira em tecnologia. Desde então, venho construindo uma base sólida em lógica de programação, conceitos de orientação a objetos e noções básicas de servidores Linux.
+
+No momento, estou explorando o ecossistema Java e aplicando meu conhecimento em projetos práticos que simulam cenários do mundo real. Estou sempre aberto a aprender novas ferramentas, colaborar em projetos e aprimorar-me continuamente como desenvolvedor.
+
 ---
 
 ### 🧰 Technologies and Tools
