@@ -1,13 +1,11 @@
 # 👨‍💻 Nicholas Mello
-**`FullStack Developer | TypeScript · Node.js · React · PostgreSQL`**
+**`FullStack Developer · Brazil`**
 
-FullStack developer focused on modular architecture, application security and AI-driven development workflows. Currently studying Systems Analysis and Development and building personal projects under the [Azuware](https://azuware.com) brand.
-
-Desenvolvedor FullStack com foco em arquitetura modular, segurança aplicacional e workflows de desenvolvimento orientados por IA. Cursando Análise e Desenvolvimento de Sistemas e desenvolvendo projetos pessoais sob a marca [Azuware](https://azuware.com).
+Building things with TypeScript, Node.js and React. Into clean architecture, AI-driven workflows and shipping stuff that actually works. Also making games and apps under [Azuware](https://azuware.com) on the side.
 
 ---
 
-### 🧰 Technologies & Tools
+### 🧰 Stack
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -28,23 +26,6 @@ Desenvolvedor FullStack com foco em arquitetura modular, segurança aplicacional
 ### 📈 GitHub Stats
 
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasRMello&show_icons=true&theme=tokyonight)
-
----
-
-### 🚀 Currently Working On
-
-- Modular monorepo architecture with React + Node.js + PostgreSQL
-- Application security: RBAC, CSP, HSTS, rate limiting, hardened sessions
-- AI-driven development with MCP (Model Context Protocol) and SDD (Spec-Driven Development)
-- Mobile games and apps under the Azuware brand
-
----
-
-### 🎯 Goals
-
-- Ship production-ready projects with global reach
-- Deepen expertise in application security and clean architecture
-- Contribute to open source
 
 ---
 
