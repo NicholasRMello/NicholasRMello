@@ -1,7 +1,7 @@
 # 👨‍💻 Nicholas Mello
 **`FullStack Developer · Brazil`**
 
-Building things with TypeScript, Node.js and React. Into clean architecture, AI-driven workflows and shipping stuff that actually works. Also making games and apps under [Azuware](https://azuware.com) on the side.
+Currently working with TypeScript, Node.js, and React. Focused on clean architecture, AI-driven workflows, and delivering products that actually work. I also develop games and applications at [Azuware](https://azuware.com) in my spare time.
 
 ---
 
